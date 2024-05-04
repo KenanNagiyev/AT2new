@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\AT2\AT2third\AT2third\bin\Debug\net8.0\AT2third.exe
+C:\Users\hp\Desktop\AT2\AT2third\AT2third\bin\Debug\net8.0\AT2third.deps.json
+C:\Users\hp\Desktop\AT2\AT2third\AT2third\bin\Debug\net8.0\AT2third.runtimeconfig.json
+C:\Users\hp\Desktop\AT2\AT2third\AT2third\bin\Debug\net8.0\AT2third.dll
+C:\Users\hp\Desktop\AT2\AT2third\AT2third\bin\Debug\net8.0\AT2third.pdb
+C:\Users\hp\Desktop\AT2\AT2third\AT2third\obj\Debug\net8.0\AT2third.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\AT2\AT2third\AT2third\obj\Debug\net8.0\AT2third.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\AT2\AT2third\AT2third\obj\Debug\net8.0\AT2third.AssemblyInfo.cs
+C:\Users\hp\Desktop\AT2\AT2third\AT2third\obj\Debug\net8.0\AT2third.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\AT2\AT2third\AT2third\obj\Debug\net8.0\AT2third.dll
+C:\Users\hp\Desktop\AT2\AT2third\AT2third\obj\Debug\net8.0\refint\AT2third.dll
+C:\Users\hp\Desktop\AT2\AT2third\AT2third\obj\Debug\net8.0\AT2third.pdb
+C:\Users\hp\Desktop\AT2\AT2third\AT2third\obj\Debug\net8.0\AT2third.genruntimeconfig.cache
+C:\Users\hp\Desktop\AT2\AT2third\AT2third\obj\Debug\net8.0\ref\AT2third.dll

@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\AT2\AT2Fifth\AT2Fifth\obj\Debug\net8.0\AT2Fifth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\AT2\AT2Fifth\AT2Fifth\obj\Debug\net8.0\AT2Fifth.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\AT2\AT2Fifth\AT2Fifth\obj\Debug\net8.0\AT2Fifth.AssemblyInfo.cs
+C:\Users\hp\Desktop\AT2\AT2Fifth\AT2Fifth\obj\Debug\net8.0\AT2Fifth.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\AT2\AT2Fifth\AT2Fifth\bin\Debug\net8.0\AT2Fifth.exe
+C:\Users\hp\Desktop\AT2\AT2Fifth\AT2Fifth\bin\Debug\net8.0\AT2Fifth.deps.json
+C:\Users\hp\Desktop\AT2\AT2Fifth\AT2Fifth\bin\Debug\net8.0\AT2Fifth.runtimeconfig.json
+C:\Users\hp\Desktop\AT2\AT2Fifth\AT2Fifth\bin\Debug\net8.0\AT2Fifth.dll
+C:\Users\hp\Desktop\AT2\AT2Fifth\AT2Fifth\bin\Debug\net8.0\AT2Fifth.pdb
+C:\Users\hp\Desktop\AT2\AT2Fifth\AT2Fifth\obj\Debug\net8.0\AT2Fifth.dll
+C:\Users\hp\Desktop\AT2\AT2Fifth\AT2Fifth\obj\Debug\net8.0\refint\AT2Fifth.dll
+C:\Users\hp\Desktop\AT2\AT2Fifth\AT2Fifth\obj\Debug\net8.0\AT2Fifth.pdb
+C:\Users\hp\Desktop\AT2\AT2Fifth\AT2Fifth\obj\Debug\net8.0\AT2Fifth.genruntimeconfig.cache
+C:\Users\hp\Desktop\AT2\AT2Fifth\AT2Fifth\obj\Debug\net8.0\ref\AT2Fifth.dll
